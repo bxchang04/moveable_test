@@ -1,6 +1,3 @@
-import Moveable from "moveable";
-// const m = require('../node_modules/moveable/dist/moveable.min.js');
-
 const frame = new Scene.Frame({
   width: "250px",
   height: "200px",
